@@ -29,4 +29,9 @@ $(document).ready(function(){
   $("#led-strip").click(function(){
     window.location.replace("https://www.youtube.com/watch?v=6z6rRS_tOmw");
   });
+
+  $("#distributed-services").click(function(){
+    window.location.replace("https://github.com/tuckerbuchy/distributed-services");
+  });
+
 });
