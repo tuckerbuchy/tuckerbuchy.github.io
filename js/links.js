@@ -42,4 +42,7 @@ $(document).ready(function(){
     window.location.replace("https://github.com/tuckerbuchy/object-recognizer");
   });
 
+  $("#dirty-bytes").click(function(){
+    window.location.replace("http://dirtybytesapp.appspot.com/");
+  });
 });
