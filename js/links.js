@@ -34,4 +34,12 @@ $(document).ready(function(){
     window.location.replace("https://github.com/tuckerbuchy/distributed-services");
   });
 
+  $("#sam-math").click(function(){
+    window.location.replace("https://github.com/tuckerbuchy/sam-math");
+  });
+
+  $("#object-recognition").click(function(){
+    window.location.replace("https://github.com/tuckerbuchy/object-recognizer");
+  });
+
 });
