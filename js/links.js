@@ -45,4 +45,8 @@ $(document).ready(function(){
   $("#dirty-bytes").click(function(){
     window.location.replace("http://dirtybytesapp.appspot.com/");
   });
+
+  $("#sound_scapes").click(function(){
+    window.location.replace("http://www.tuckerbuchy.com/sound_scapes");
+  });
 });
