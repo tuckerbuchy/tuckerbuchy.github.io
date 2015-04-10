@@ -36,11 +36,14 @@ html, body {
   text-align: left;
 }
 
-#email-link, #facebook-link, #mail-link, #twitter-link, #linkedin-link, #github-link{
-  cursor: hand;
+#social-media i{
+  cursor: pointer;
   transition-property: background-color;
   transition-duration: 0.5s;
   transition-timing-function: ease;
+}
+
+#email-link, #facebook-link, #mail-link, #twitter-link, #linkedin-link, #github-link{
 }
 
 #email-link:hover, #facebook-link:hover, #mail-link:hover, #twitter-link:hover, #linkedin-link:hover, #github-link:hover{
